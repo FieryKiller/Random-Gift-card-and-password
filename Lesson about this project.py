@@ -49,4 +49,5 @@ Calls the generate_gift_card_code function to generate a gift card code and stor
 Calls the generate_password function to generate a 4-digit password and stores it in the password variable.
 Prints the generated gift card code and password with descriptive messages.
 Summary
-This Python code snippet effectively demonstrates how to use the random module to generate random sequences of characters and digits. It showcases the creation of two functions, one for generating a 16-character gift card code and another for generating a 4-digit password, making it a useful tool for various applications requiring random code generation.
+This Python code snippet effectively demonstrates how to use the random module to generate random sequences of characters and digits. It showcases the creation of two functions,
+one for generating a 16-character gift card code and another for generating a 4-digit password, making it a useful tool for various applications requiring random code generation.
